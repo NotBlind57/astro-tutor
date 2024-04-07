@@ -1,3 +1,5 @@
+body {   --swup-overlay-theme-color: #2D2E82;   --swup-overlay-theme-duration: .3s;   --swup-overlay-theme-delay: 0s;   --swup-overlay-theme-scale: 1.2;   --swup-overlay-theme-skew: 5deg; }
+
 html {
     background-color: #f1f5f9;
     font-family: sans-serif;
