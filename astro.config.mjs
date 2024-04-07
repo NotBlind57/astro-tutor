@@ -1,4 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
-export default defineConfig({});
+export default defineConfig({
+    site: "https://gleaming-entremet-2df9e2.netlify.app/"
+});
